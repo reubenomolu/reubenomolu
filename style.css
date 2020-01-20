@@ -1,0 +1,47 @@
+
+  background-color: lightblue;
+}
+
+div {
+  background-color: lightblue;
+}
+
+
+
+h1 {
+  color: black;
+  font-family: verdana;
+  font-size: 300%;
+}
+h2 {
+  color: black;
+  font-family: verdana;
+  font-size: 140%;
+}
+h3 {
+  color: black;
+  font-family: verdana;
+  font-size: 120%;
+}
+h4 {
+  color: black;
+  font-family: verdana;
+  font-size: 110%;
+}
+p  {
+  color: black;
+  font-family: verdana;
+  font-size: 100%;
+  width: 60%;
+}
+
+ol li{
+ font-family: verdana;
+ :8px;
+}
+
+#PictureRight{
+	height: 30em;
+	position: fixed;
+	right:1em;
+}
